@@ -1,13 +1,13 @@
-package com.example.springprojects01;
+package com.example.openfeign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringProjects01Application {
+public class OpenFeignApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringProjects01Application.class, args);
+        SpringApplication.run(OpenFeignApplication.class, args);
     }
 
 }
